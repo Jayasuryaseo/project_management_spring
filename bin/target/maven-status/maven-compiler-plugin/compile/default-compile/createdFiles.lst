@@ -1,0 +1,8 @@
+com\Project\SpringApp\SpringAppApplication.class
+com\Project\SpringApp\Entities\BaseEntity.class
+com\Project\SpringApp\Student\StudentDetailsRepository.class
+com\Project\SpringApp\Domain\BaseDomain.class
+com\Project\SpringApp\Entities\StudentEntity.class
+com\Project\SpringApp\Student\StudentDetailsService.class
+com\Project\SpringApp\Domain\StudentDomain.class
+com\Project\SpringApp\Student\StudentDetailsController.class
